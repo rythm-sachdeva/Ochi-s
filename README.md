@@ -1,8 +1,47 @@
-# React + Vite
+# Ochi-s
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and visually stunning frontend project built using **React, Framer Motion, GSAP, and Tailwind CSS**. This project emphasizes sleek animations, smooth transitions, and an engaging user experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 [Visit Ochi-s](https://rythm-sachdeva.github.io/Ochi-s/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **React** – Component-based UI development
+- **Framer Motion** – Smooth animations and transitions
+- **GSAP** – Advanced animations for a dynamic experience
+- **Tailwind CSS** – Utility-first CSS framework for responsive design
+
+## ✨ Features
+- **Modern UI/UX** with eye-catching animations
+- **Framer Motion & GSAP** for seamless transitions
+- **Fully Responsive** across devices
+- **Optimized Performance** with minimal load times
+
+## 📸 Preview
+(Screenshot or GIF showcasing the UI)
+
+## 📦 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/rythm-sachdeva/Ochi-s.git
+   cd Ochi-s
+   ```
+2. Install dependencies:
+   ```sh
+   npm install
+   ```
+3. Run the development server:
+   ```sh
+   npm start
+   ```
+4. Open `http://localhost:3000` in your browser.
+
+## 🤝 Contributing
+Feel free to fork this repository and submit pull requests with improvements.
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+Enjoy the project? ⭐ Consider giving it a star on GitHub!
+
